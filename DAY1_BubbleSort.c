@@ -21,7 +21,7 @@ int BubbleSort(int nums[],int numsSize){
         break;
     }
  }
- return swaps;
+ return swaps; 
 }
 void printArray(int arr[], int size)
 {
